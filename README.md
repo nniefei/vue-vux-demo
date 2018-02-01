@@ -29,17 +29,17 @@
 
 >5、最后，附上几张截图  
 
-![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/0.png)
-![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/1.png)
-![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/2.png)
-![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/3.png)
-![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/4.png)
-![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/5.png)
-![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/6.png)
-![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/7.png)
-![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/8.png)
-![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/9.png)
-![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/10.png)
+![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/0.png)
+![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/1.png)
+![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/2.png)
+![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/3.png)
+![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/4.png)
+![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/5.png)
+![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/6.png)
+![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/7.png)
+![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/8.png)
+![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/9.png)
+![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/10.png)
 
 ## Build Setup
 
