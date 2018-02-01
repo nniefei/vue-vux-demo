@@ -29,17 +29,16 @@
 
 >5、最后，附上几张截图  
 
-![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/0.png)
-![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/1.png)
-![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/2.png)
-![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/3.png)
-![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/4.png)
-![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/5.png)
-![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/6.png)
-![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/7.png)
-![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/8.png)
-![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/9.png)
-![Image text](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/10.png)
+![演示图](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/0.gif)
+![登录页](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/1.png)
+![图片](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/2.png)
+![查看图片](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/3.png)
+![电影](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/4.png)
+![音乐](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/5.png)
+![音乐列表](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/6.png)
+![图书](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/7.png)
+![侧边栏](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/8.png)
+![搜索](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/9.png)
 
 ## Build Setup
 
