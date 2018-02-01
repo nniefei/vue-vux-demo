@@ -28,6 +28,19 @@
 >> 4.4、关于移动设备兼容性的问题，个人手里没有iPhone设备（只有一个锤子M1L）、都只是使用Chrome模拟
 
 >5、最后，附上几张截图  
+
+![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/0.png)
+![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/1.png)
+![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/2.png)
+![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/3.png)
+![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/4.png)
+![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/5.png)
+![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/6.png)
+![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/7.png)
+![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/8.png)
+![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/9.png)
+![](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/10.png)
+
 ## Build Setup
 
 ```
