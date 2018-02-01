@@ -40,6 +40,7 @@
 ![图书](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/7.png)
 ![侧边栏](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/8.png)
 ![搜索](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/9.png)
+![nginx](https://github.com/nniefei/vue-vux-demo/blob/master/src/assets/example/10.png)
 
 ## Build Setup
 
